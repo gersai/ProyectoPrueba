@@ -14,6 +14,7 @@
 		2B254B532A96E03F00F1FA36 /* ProyectoPruebaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B254B522A96E03F00F1FA36 /* ProyectoPruebaTests.swift */; };
 		2B254B5D2A96E03F00F1FA36 /* ProyectoPruebaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B254B5C2A96E03F00F1FA36 /* ProyectoPruebaUITests.swift */; };
 		2B254B5F2A96E03F00F1FA36 /* ProyectoPruebaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B254B5E2A96E03F00F1FA36 /* ProyectoPruebaUITestsLaunchTests.swift */; };
+		2B254B6C2A96E17100F1FA36 /* MiNombreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B254B6B2A96E17100F1FA36 /* MiNombreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		2B254B582A96E03F00F1FA36 /* ProyectoPruebaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyectoPruebaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B254B5C2A96E03F00F1FA36 /* ProyectoPruebaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProyectoPruebaUITests.swift; sourceTree = "<group>"; };
 		2B254B5E2A96E03F00F1FA36 /* ProyectoPruebaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProyectoPruebaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2B254B6B2A96E17100F1FA36 /* MiNombreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiNombreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				2B254B412A96E03E00F1FA36 /* ProyectoPruebaApp.swift */,
 				2B254B432A96E03E00F1FA36 /* ContentView.swift */,
+				2B254B6B2A96E17100F1FA36 /* MiNombreView.swift */,
 				2B254B452A96E03F00F1FA36 /* Assets.xcassets */,
 				2B254B472A96E03F00F1FA36 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				2B254B442A96E03E00F1FA36 /* ContentView.swift in Sources */,
 				2B254B422A96E03E00F1FA36 /* ProyectoPruebaApp.swift in Sources */,
+				2B254B6C2A96E17100F1FA36 /* MiNombreView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
